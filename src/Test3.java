@@ -10,5 +10,9 @@ public class Test3 {
 
         //分支测试朱文浩77
 
+
+    }
+    public String fun1(){
+        return null;
     }
 }
